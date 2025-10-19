@@ -1,6 +1,6 @@
 # fantastic-tribble
 It shows insights of Gym Data using Data Analytics.
-*This repository has EDA & ML projects done on various datasets.
+* This repository has EDA & ML projects done on various datasets.
 # Feautres
 * Dataset - Gym Data
 * Environment Used - Jupyter Notebook
